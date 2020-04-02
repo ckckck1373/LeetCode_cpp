@@ -2,8 +2,7 @@
 
 |#    |Problems|Language|
 |-----|--------|--------|
-|136.     |[Single Number](https://leetcode.com/problems/single-number/)        |[cpp]
-(https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/Single_Number_April_2.cpp)
+|136.     |[Single Number](https://leetcode.com/problems/single-number/)        |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/Single_Number_April_2.cpp)
 |202.     |[Happy Number](https://leetcode.com/problems/happy-number/)        |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/Happy_Number_April_1.cpp)
 |13.    |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)        |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/easy/Roman%20to%20Integer/Roman_to_Integer.cpp)
 |9.      |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)        |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/easy/Palindrome/Palindrome.cpp)
