@@ -11,8 +11,8 @@ public:
 
         int result=0;
         for(int i=0;i<arr.size();i++){
-            iter = mapInt.find(arr[i]);S
-            if(iter!=mapInt.end()){S
+            iter = mapInt.find(arr[i]);
+            if(iter!=mapInt.end()){
                 // find
                 mapInt[arr[i]] += 1;
             }else{
