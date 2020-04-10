@@ -91,3 +91,69 @@ public:
     top=0 : first thing
     ** remember do not set value in the array[-1]-> run time error
 */
+
+
+
+
+/* version2 */
+
+class MinStack {
+struct Data{
+    int num;
+    int mins;
+};
+
+private:
+    Data *stack;
+    int top_n;
+    int capacity;
+
+    void DoubleCapacity(){
+        capacity *=2;
+        Data *newStack = new Data[capacity];
+
+        for(int i=0;i < capacity/2;i++){
+            newStack[i] = stack[i];
+        }
+        delete [] stack;
+        stack = newStack;
+    }
+
+public:
+    /** initialize your data structure here. */
+    MinStack() {
+        top_n = -1;
+        capacity = 100;
+        stack = new Data[capacity];
+    }
+
+    void push(int x) {
+        if(top_n == capacity-1){
+            DoubleCapacity();
+        }
+        top_n++;
+        int min = (top_n == 0 || x<stack[top_n-1].mins)? x: stack[top_n-1].mins;
+        stack[top_n] = {x, min};
+    }
+
+    void pop() {
+        top_n--;
+    }
+
+    int top() {
+        return stack[top_n].num;
+    }
+
+    int getMin() {
+        return stack[top_n].mins;
+    }
+};
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack* obj = new MinStack();
+ * obj->push(x);
+ * obj->pop();
+ * int param_3 = obj->top();
+ * int param_4 = obj->getMin();
+ */
