@@ -67,7 +67,7 @@ public:
 /*
     The code can be more concise;
 */
-ample 4 ms submission
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
