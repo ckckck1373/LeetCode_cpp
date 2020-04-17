@@ -18,5 +18,5 @@
 |543.    |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April_11_Diameter_of_Binary_Tree.cpp)
 |1046.|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April_12_Last_Stone_Weight.cpp)
 |x.  |[Perform String Shift](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April_14_Perform_String_Shift.cpp)
-|x.  |[Product of Array Except Self](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April_15_Product_of_Array_Except_Self.cpp)
+|138.  |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April_15_Product_of_Array_Except_Self.cpp)
 |200. |[Number of Islands](https://leetcode.com/problems/number-of-islands/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April_17_Number_of_Islands.cpp)
