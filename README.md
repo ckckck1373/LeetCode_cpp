@@ -1,4 +1,6 @@
 # LeetCode_cpp
+## C++ NOTE
+[HackMD](https://hackmd.io/yY4lUCv4SRq_mNfAfYteYA)
 
 |#    |Problems|Language|
 |-----|--------|--------|
