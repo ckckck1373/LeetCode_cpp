@@ -30,3 +30,4 @@
 |201. |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April23_Bitwise%20AND%20of%20Numbers%20Range.cpp)
 |146.|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April24_LRU_Cache.cpp)
 |55.|[Jump Game](https://leetcode.com/problems/jump-game/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April25_Jump_Game.cpp)
+|1143. |[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April26_Longest_Common_Subsequence.cpp)
