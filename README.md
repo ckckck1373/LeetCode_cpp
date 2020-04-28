@@ -32,3 +32,4 @@
 |55.|[Jump Game](https://leetcode.com/problems/jump-game/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April25_Jump_Game.cpp)
 |1143. |[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April26_Longest_Common_Subsequence.cpp)
 |221.  |[Maximal Square](https://leetcode.com/problems/maximal-square/)    |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April27_Maximal_Square.cpp)
+|x.    |[First Unique Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April28_First_Unique_Number.cpp)
