@@ -36,3 +36,4 @@
 |124.  |[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April29_Binary_Tree_Maximum_Path_Sum.cpp)
 |x.    |[ Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3315/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April30_Check_If_A_String_Valid_or_not.cpp)
 |278.  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May01_First_Bad_Version.cpp)
+|771.  |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May02_Jewels_and_Stones.cpp)
