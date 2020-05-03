@@ -45,5 +45,12 @@
 ## Contest
 |Date|#    |Level|Problems|Language|Hashtage|
 |----|-----|-----|--------|--------|--------|
+|4/26/2020|1422.|Easy|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[cpp]()|
+|4/26/2020|1439.|Hard|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|[cpp]()|
+|4/26/2020|1439.|Hard|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|[cpp]()||5/3/2020|1439.|Hard|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|[cpp]()|
+|4/26/2020|1439.|Hard|[]()|[cpp]()|
 |5/3/2020|1436.|Easy|[Destination City](https://leetcode.com/problems/destination-city/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/3%2C%20May/1st_Destination_City.cpp)|# string map
 |5/3/2020|1437.|Medium|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/3%2C%20May/2nd_Check_If_All%201's_Are_at_Least_Length_K_Places_Away.cpp)|
+|5/3/2020|1438.|Medium|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[cpp]()|
+|5/3/2020|1439.|Hard|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|[cpp]()|
+|4/26/2020|1439.|Hard|[]()|[cpp]()|
