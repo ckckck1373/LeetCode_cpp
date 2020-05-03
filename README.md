@@ -18,7 +18,7 @@
 |49.    |[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April06_Gruop_Anagrams.cpp) 
 |x    |[Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April07_countElement.cpp)
 |x    |[MiniStack](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April10_MinStack.cpp)
-|543.    |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April11_Diameter_of_Binary_Tree.cpp)
+|543. |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April11_Diameter_of_Binary_Tree.cpp)
 |1046.|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April12_Last_Stone_Weight.cpp)
 |x.  |[Perform String Shift](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April14_Perform_String_Shift.cpp)
 |138.  |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April15_Product_of_Array_Except_Self.cpp)
@@ -37,3 +37,20 @@
 |x.    |[ Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3315/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/30-Day%20Chanllenge/April30_Check_If_A_String_Valid_or_not.cpp)
 |278.  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May01_First_Bad_Version.cpp)
 |771.  |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May02_Jewels_and_Stones.cpp)
+|383.  |[Ransom Note](https://leetcode.com/problems/ransom-note/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May03_Ransom_Note.cpp)
+
+
+
+
+## Contest
+|Date|#    |Level|Problems|Language|Hashtage|
+|----|-----|-----|--------|--------|--------|
+|4/26/2020|1422.|Easy|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[cpp]()|
+|4/26/2020|1439.|Hard|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|[cpp]()|
+|4/26/2020|1439.|Hard|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|[cpp]()||5/3/2020|1439.|Hard|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|[cpp]()|
+|4/26/2020|1439.|Hard|[]()|[cpp]()|
+|5/3/2020|1436.|Easy|[Destination City](https://leetcode.com/problems/destination-city/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/3%2C%20May/1st_Destination_City.cpp)|# string map
+|5/3/2020|1437.|Medium|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/3%2C%20May/2nd_Check_If_All%201's_Are_at_Least_Length_K_Places_Away.cpp)|
+|5/3/2020|1438.|Medium|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[cpp]()|
+|5/3/2020|1439.|Hard|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|[cpp]()|
+|4/26/2020|1439.|Hard|[]()|[cpp]()|
