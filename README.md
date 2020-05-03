@@ -45,12 +45,12 @@
 ## Weekly Contest
 |# Contest|Date|# Problem|Level|Problems|Language|Hashtage|
 |----|----|-----|-----|--------|--------|--------|
-|186.|4/26/2020|1422.|Easy|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/26%2CApril/1st_Maximum_Score_After_Splitting_a_String.cpp)|
-|186.|4/26/2020|1439.|Medium|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/26%2CApril/2nd_MaximumPoints_You_Can_Obtain_from_Cards.cpp)|
+|186.|4/26/2020|1422.|Easy|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/NUM186%2C%2026%2C%20April%2C%202020/1st_Maximum_Score_After_Splitting_a_String.cpp)|
+|186.|4/26/2020|1439.|Medium|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/NUM186%2C%2026%2C%20April%2C%202020/2nd_MaximumPoints_You_Can_Obtain_from_Cards.cpp)|
 |186.|4/26/2020|1424.|Medium|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)||# unsolve
 |186.|4/26/2020|1425.|Hard|[Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)||# unsolve
-|187.|5/3/2020|1436.|Easy|[Destination City](https://leetcode.com/problems/destination-city/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/3%2C%20May/2nd_Check_If_All%201's_Are_at_Least_Length_K_Places_Away.cpp)|# string map
-|187|5/3/2020|1437.|Medium|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/3%2C%20May/2nd_Check_If_All%201's_Are_at_Least_Length_K_Places_Away.cpp)|
+|187.|5/3/2020|1436.|Easy|[Destination City](https://leetcode.com/problems/destination-city/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/NUM187%2C%203%2C%20May%2C%202020/1st_Destination_City.cpp)|# string map
+|187|5/3/2020|1437.|Medium|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/NUM187%2C%203%2C%20May%2C%202020/2nd_Check_If_All%201's_Are_at_Least_Length_K_Places_Away.cpp)|
 |187.|5/3/2020|1438.|Medium|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)||# unsolve
 |187.|5/3/2020|1439.|Hard|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)||# unsolve
 
