@@ -6,6 +6,7 @@
 class Queue{
     public:
         int *array = new int[100000];
+        
         int front, rear;
         int max_val;
         int min_val;
