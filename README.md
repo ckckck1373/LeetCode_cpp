@@ -52,6 +52,7 @@
 |187.|5/3/2020|1436.|Easy|[Destination City](https://leetcode.com/problems/destination-city/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/NUM187%2C%203%2C%20May%2C%202020/1st_Destination_City.cpp)|# string map
 |187|5/3/2020|1437.|Medium|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/NUM187%2C%203%2C%20May%2C%202020/2nd_Check_If_All%201's_Are_at_Least_Length_K_Places_Away.cpp)|
 |187.|5/3/2020|1438.|Medium|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/NUM187%2C%203%2C%20May%2C%202020/3rd_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.cpp)|# queue w/ max&min
+|187.|5/3/2020|1439.|Hard|
 
 
 
