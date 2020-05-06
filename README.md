@@ -39,7 +39,7 @@
 |771.  |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May02_Jewels_and_Stones.cpp)
 |383.  |[Ransom Note](https://leetcode.com/problems/ransom-note/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May03_Ransom_Note.cpp)
 |387.  |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May05_First_Unique_Character_in_a_String.cpp) |# Hashtable
-
+|169.  |[Majority Element](https://leetcode.com/problems/majority-element/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May06_Majority_Element.cpp)| 
 
 
 ## Weekly Contest
