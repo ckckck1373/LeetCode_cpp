@@ -41,6 +41,7 @@
 |387.  |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May05_First_Unique_Character_in_a_String.cpp) |# Hashtable
 |169.  |[Majority Element](https://leetcode.com/problems/majority-element/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May06_Majority_Element.cpp)| 
 |993.  |[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May07_Cousins_in_Binary_Tree.cpp)|# Tree
+|1232. |[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May08_Check_If_It_Is_a_Straight_Line.cpp)|
 
 ## Weekly Contest
 |# Contest|Date|# Problem|Level|Problems|Language|Hashtage|
