@@ -42,7 +42,8 @@
 |169.  |[Majority Element](https://leetcode.com/problems/majority-element/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May06_Majority_Element.cpp)| 
 |993.  |[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May07_Cousins_in_Binary_Tree.cpp)|# Tree
 |1232. |[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May08_Check_If_It_Is_a_Straight_Line.cpp)|
-
+|367.  |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May09_Valid_Perfect_Square.cpp)|
+|997.  |[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) |[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/May_30_Day_Chanllenge/May10_Find_the_Town_Judge.cpp)|
 ## Weekly Contest
 |# Contest|Date|# Problem|Level|Problems|Language|Hashtage|
 |----|----|-----|-----|--------|--------|--------|
@@ -53,7 +54,12 @@
 |187.|5/3/2020|1436.|Easy|[Destination City](https://leetcode.com/problems/destination-city/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/NUM187%2C%203%2C%20May%2C%202020/1st_Destination_City.cpp)|# string map
 |187|5/3/2020|1437.|Medium|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/NUM187%2C%203%2C%20May%2C%202020/2nd_Check_If_All%201's_Are_at_Least_Length_K_Places_Away.cpp)|
 |187.|5/3/2020|1438.|Medium|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[cpp](https://github.com/ckckck1373/LeetCode_cpp/blob/master/Problem/contest/NUM187%2C%203%2C%20May%2C%202020/3rd_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.cpp)|# queue w/ max&min
-|187.|5/3/2020|1439.|Hard|
+|187.|5/3/2020|1439.|Hard|# unsolved
+|188.|5/10/2020|
+|188.|5/10/2020|
+|188.|5/10/2020|
+|188.|5/10/2020|
+
 
 
 
