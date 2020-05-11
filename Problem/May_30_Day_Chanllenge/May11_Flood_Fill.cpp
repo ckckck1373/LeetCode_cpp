@@ -16,6 +16,7 @@ public:
         if(theColor==newColor) return image;
         
         helper(image, sr, sc, rows, cols, newColor, theColor);
+        
         return image;
         
     }
