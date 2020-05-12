@@ -7,7 +7,33 @@
 // Version2: Recursion w/o function
 // Time Complexity: O(logn) 
 // Space Complexity: O(1)
-
+class Solution {
+public:
+    int singleNonDuplicate(vector<int>& nums) {
+        int n=nums.size();
+        if(n==1)return nums[0];
+        int left = 0;
+        int right = n-1;
+        int mid = 0;
+        int temp=0;
+        while(left!=right){
+            temp = (left+right)/2;
+            if(temp%2==0){
+                mid = temp+1;
+            }else{
+                mid = temp;
+            }
+            if(nums[mid]==nums[mid+1]){
+                right = mid-1;
+            }else{
+                left = mid+1;
+            }
+           
+            
+        }
+        return nums[left];
+    }
+};
 
 
 
