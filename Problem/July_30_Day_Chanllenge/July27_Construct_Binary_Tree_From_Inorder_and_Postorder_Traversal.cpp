@@ -5,7 +5,7 @@
 */
 
 // version1:
-// Runtime: 1848 ms(pretty bad performance)
+// Runtime: 1848 ms(pretty bad performance since I create lots of vector)
 // Memory Usage: 93.5 MB
 
 /**
